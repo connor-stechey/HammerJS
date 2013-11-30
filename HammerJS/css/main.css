@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-image: url(retina_wood.jpg);
+	background-repeat: repeat;
+	font-family:Arial, sans-serif;
+}
+.center {
+ 	text-align:center;
+	width: 100%;
+}
+
+.left {
+	display: inline-block;
+	text-align:left;
+}
+
+.colour {
+        color:#F00;
+}
+
+#mapcontainer {
+    width:90%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#toucharea {
+        width: 90%;
+        border: solid black;
+        margin-left: auto;
+        margin-right: auto;
+}
+
+.yellowBack {
+	background: yellow;
+}
+
+.blueBack {
+	background: blue;
+}
